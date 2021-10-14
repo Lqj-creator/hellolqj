@@ -1,1 +1,2 @@
-remote first change
+remote first 
+remote second change (delete the change)
